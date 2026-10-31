@@ -1,0 +1,6 @@
+{
+  "name": "URBAN GENT - Luxury Men's Wear Online Store",
+  "description": "Modern premium Men's Wear E-commerce platform with tailored collections, interactive shopping bag, Razorpay checkout, live order tracking, and administrative store management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
